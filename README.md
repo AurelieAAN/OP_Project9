@@ -9,13 +9,13 @@ I - Contexte
 II - Nos données
 
 III - Les Systèmes de recommandation
-    - Based-content
-    - Collaborative filtering
-    - Comparaison des deux systèmes de recommandation
+        - Based-content
+        - Collaborative filtering
+        - Comparaison des deux systèmes de recommandation
 
 IV - Déploiement
-    - Architecture MVP
-    - Architecture fonctionnelle de l’application (MVP)
-    - Architecture cible : 3 solutions
+        - Architecture MVP
+        - Architecture fonctionnelle de l’application (MVP)
+        - Architecture cible : 3 solutions
 
 V - Conclusion
